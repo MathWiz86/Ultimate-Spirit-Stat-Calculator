@@ -1,0 +1,35 @@
+{
+  "defaultSettings": {
+    "players": [
+      "Player 1",
+      "Player 2",
+      "Player 3"
+    ]
+  },
+  "extraSpiritsWOL": [],
+  "extraSpiritsSB": [],
+  "bosses": [
+    "giga bowser",
+    "galleom",
+    "rathalos",
+    "master hand",
+    "master hand (light realm)",
+    "master hand (final realm)",
+    "master hand gauntlet",
+    "crazy hand",
+    "crazy hand (sacred land)",
+    "crazy hand (mysterious dimension)",
+    "crazy hand (dracula's castle)",
+    "crazy hand (final realm)",
+    "ganon",
+    "marx",
+    "dracula",
+    "galeem (light realm)",
+    "galeem (final realm)",
+    "dharkon (dark realm)",
+    "dharkon (final realm)",
+    "galeem & dharkon (phase 1)",
+    "galeem & dharkon (phase 2)",
+    "galeem & dharkon (phase 3)"
+  ]
+}

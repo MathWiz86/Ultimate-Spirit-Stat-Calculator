@@ -1,0 +1,18 @@
+{
+  "LastAddedBattle": "",
+  "PlayerStats": {
+    "Math": {
+      "ChestsOpened": 0,
+      "SkillsBought": null
+    },
+    "Swan": {
+      "ChestsOpened": 0,
+      "SkillsBought": null
+    },
+    "Paul": {
+      "ChestsOpened": 0,
+      "SkillsBought": null
+    }
+  },
+  "BattleStats": {}
+}

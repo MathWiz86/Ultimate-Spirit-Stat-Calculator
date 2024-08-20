@@ -1,0 +1,43 @@
+{
+  "_metadata": {
+    "noah & mio": {
+      "spiritName": "Noah & Mio",
+      "series": "Xenoblade Chronicles Series",
+      "ability": null,
+      "BattleAffinity": null,
+      "Type": null,
+      "ClassRank": null,
+      "SlotCount": null,
+      "BattlePower": null,
+      "IsSpiritBoard": null,
+      "IsWOL": null,
+      "IsWOLReward": null
+    },
+    "the 13 sentinel pilots": {
+      "spiritName": "The 13 Sentinel Pilots",
+      "series": "13 Sentinels: Aegis Rim",
+      "ability": null,
+      "BattleAffinity": null,
+      "Type": null,
+      "ClassRank": null,
+      "SlotCount": null,
+      "BattlePower": null,
+      "IsSpiritBoard": null,
+      "IsWOL": null,
+      "IsWOLReward": null
+    },
+    "zagreus": {
+      "spiritName": "Zagreus",
+      "series": "Hades Series",
+      "ability": null,
+      "BattleAffinity": null,
+      "Type": null,
+      "ClassRank": null,
+      "SlotCount": null,
+      "BattlePower": null,
+      "IsSpiritBoard": null,
+      "IsWOL": null,
+      "IsWOLReward": null
+    }
+  }
+}

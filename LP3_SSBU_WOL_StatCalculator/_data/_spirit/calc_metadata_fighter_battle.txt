@@ -1,0 +1,648 @@
+|-
+|01
+|[[File:Mario SSBU.png|center|64x64px]]
+|{{SSBU|Mario}}
+|{{SpiritType|Neutral}} <center>{{color|#796581|Neutral}}</center>
+|2,500
+|{{SSBU|Final Destination}}
+|''{{SSBUMusicLink|Super Smash Bros.|Final Destination}}''
+|In [[The Light Realm]] (right at the beginning)
+|-
+|02
+|[[File:Donkey Kong SSBU.png|center|64x64px]]
+|{{SSBU|Donkey Kong}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|3,300
+|{{OmegaStage|Kongo Jungle}}
+|''{{SSBUMusicLink|Donkey Kong|Jungle Level (64)}}''
+|In [[The Light Realm]] (middle of the western jungle)
+|-
+|03
+|[[File:Link SSBU.png|center|64x64px]]
+|{{SSBU|Link}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|3,600
+|{{OmegaStage|Great Plateau Tower}}
+|''{{SSBUMusicLink|The Legend of Zelda|Main Theme - The Legend of Zelda: Breath of the Wild}}''
+|In [[The Light Realm]] (the Sheikah Tower in the south)
+|-
+|04
+|[[File:Samus SSBU.png|center|64x64px]]
+|{{SSBU|Samus}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|7,500
+|{{OmegaStage|Brinstar}}
+|''{{SSBUMusicLink|Metroid|Title Theme - Metroid}}''
+|In [[The Light Realm]] (just beyond the light breach)
+|-
+|04<sup>ε</sup>
+|[[File:Dark Samus SSBU.png|center|64x64px]]
+|{{SSBU|Dark Samus}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|12,500
+|{{OmegaStage|Frigate Orpheon}}
+|''{{SSBUMusicLink|Metroid|Multiplayer - Metroid Prime 2: Echoes}}''
+|In {{b|The Final Battle|World of Light}} area (dark side)
+|-
+|05
+|[[File:Yoshi SSBU.png|center|64x64px]]
+|{{SSBU|Yoshi}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|3,600
+|{{OmegaStage|Super Happy Tree}}
+|''{{SSBUMusicLink|Yoshi|Obstacle Course - Yoshi's Island}}''
+|In [[The Light Realm]] (in the ribbon hills)
+|-
+|07
+|[[File:Fox SSBU.png|center|64x64px]]
+|{{SSBU|Fox}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|3,700
+|{{OmegaStage|Corneria}}
+|''{{SSBUMusicLink|Star Fox|Star Fox Medley}}''
+|In [[The Light Realm]] (before the red button in the heart pond)
+|-
+|08
+|[[File:Pikachu SSBU.png|center|64x64px]]
+|{{SSBU|Pikachu}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|3,300
+|{{OmegaStage|Pokémon Stadium}}
+|''{{SSBUMusicLink|Pokémon|Main Theme - Pokémon Red & Pokémon Blue (Melee)}}''
+|In [[The Light Realm]] (the rapids above the wall)
+|-
+|09
+|[[File:Luigi SSBU.png|center|64x64px]]
+|{{SSBU|Luigi}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|10,600
+|{{OmegaStage|Luigi's Mansion}}
+|''{{SSBUMusicLink|Super Mario Bros.|Main Theme - Luigi's Mansion}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world, in the flames)
+|-
+|10
+|[[File:Ness SSBU.png|center|64x64px]]
+|{{SSBU|Ness}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|7,500
+|{{OmegaStage|Magicant}}
+|''{{SSBUMusicLink|EarthBound|Magicant (for 3DS / Wii U)}}''
+|In [[The Light Realm]] (beyond the light breach, in the pink clouds)
+|-
+|11
+|[[File:Captain Falcon SSBU.png|center|64x64px]]
+|{{SSBU|Captain Falcon}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|3,300
+|{{OmegaStage|Port Town Aero Dive}}
+|''{{SSBUMusicLink|F-Zero|F-ZERO Medley}}''
+|In [[The Light Realm]] (race track east of the starting area)
+|-
+|12
+|[[File:Jigglypuff SSBU.png|center|64x64px]]
+|{{SSBU|Jigglypuff}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|3,300
+|{{OmegaStage|Mushroom Kingdom U}}
+|''{{SSBUMusicLink|Pokémon|Road to Viridian City - Pokémon Red / Pokémon Blue}}''
+|In [[The Light Realm]] (forest north of the starting area)
+|-
+|13
+|[[File:Peach SSBU.png|center|64x64px]]
+|{{SSBU|Peach}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|7,500
+|[[Mushroom Kingdom U]] (Slide Lift Tower)
+|''{{SSBUMusicLink|Super Mario Bros.|Fortress Boss - Super Mario World}}''
+|In [[The Light Realm]] (in the [[Molten Fortress]] sub-world)
+|-
+|13<sup>ε</sup>
+|[[File:Daisy SSBU.png|center|64x64px]]
+|{{SSBU|Daisy}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|10,600
+|[[Mushroom Kingdom U]] (Slide Lift Tower)
+|''{{SSBUMusicLink|Super Mario Bros.|Underground Theme - Super Mario Land}}''
+|In [[The Dark Realm]] (in the {{b|Dracula's Castle|World of Light}} sub-world)
+|-
+|15
+|[[File:Ice Climbers SSBU.png|center|64x64px]]
+|{{SSBU|Ice Climbers}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|7,500
+|{{OmegaStage|Summit}}
+|''{{SSBUMusicLink|Ice Climber|Ice Climber (Brawl)}}''
+|In [[The Light Realm]] (bottom of the icy mountain)
+|-
+|16
+|[[File:Sheik SSBU.png|center|64x64px]]
+|{{SSBU|Sheik}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|2,500
+|{{SSBU|Final Destination}}
+|''{{SSBUMusicLink|Super Smash Bros.|Final Destination}}''
+|In [[The Light Realm]], one of the 3 starter routes (north route)
+|-
+|17
+|[[File:Zelda SSBU.png|center|64x64px]]
+|{{SSBU|Zelda}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|10,100
+|{{OmegaStage|Temple}}
+|''{{SSBUMusicLink|The Legend of Zelda|Ocarina of Time Medley}}''
+|In [[The Dark Realm]] (in the [[Sacred Land]] sub-world, in Kakariko Village)
+|-
+|18
+|[[File:Dr. Mario SSBU.png|center|64x64px]]
+|{{SSBU|Dr. Mario}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|3,400
+|{{OmegaStage|Mario Bros.}}
+|''{{SSBUMusicLink|Super Mario Bros.|Fever}}''
+|In [[The Light Realm]] (north of the city towards the ribbon hills)
+|-
+|19
+|[[File:Pichu SSBU.png|center|64x64px]]
+|{{SSBU|Pichu}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|7,500
+|{{OmegaStage|Prism Tower}}
+|''{{SSBUMusicLink|Pokémon|Pokémon Red / Pokémon Blue Medley}}''
+|In [[The Light Realm]] (in the [[Power Plant]] sub-world)
+|-
+|20
+|[[File:Falco SSBU.png|center|64x64px]]
+|{{SSBU|Falco}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|7,500
+|{{OmegaStage|Lylat Cruise}}
+|''{{SSBUMusicLink|Star Fox|Space Armada}}''
+|In [[The Light Realm]] (the space area, on the yellow planet)
+|-
+|21
+|[[File:Marth SSBU.png|center|64x64px]]
+|{{SSBU|Marth}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|2,500
+|{{SSBU|Final Destination}}
+|''{{SSBUMusicLink|Super Smash Bros.|Final Destination}}''
+|In [[The Light Realm]], one of the 3 starter routes (west route)
+|-
+|21<sup>ε</sup>
+|[[File:Lucina SSBU.png|center|64x64px]]
+|{{SSBU|Lucina}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|10,000
+|{{OmegaStage|Arena Ferox}}
+|''{{SSBUMusicLink|Fire Emblem|Id (Purpose)}}''
+|In [[The Dark Realm]] (south-eastern path)
+|-
+|22
+|[[File:Young Link SSBU.png|center|64x64px]]
+|{{SSBU|Young Link}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|10,300
+|{{OmegaStage|Temple}}
+|''{{SSBUMusicLink|The Legend of Zelda|Saria's Theme}}''
+|In [[The Dark Realm]] (in the [[Sacred Land]] sub-world, in the Lost Woods)
+|-
+|23
+|[[File:Ganondorf SSBU.png|center|64x64px]]
+|{{SSBU|Ganondorf}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|10,700
+|{{OmegaStage|Bridge of Eldin}}
+|''{{SSBUMusicLink|The Legend of Zelda|Death Mountain}}''
+|In [[The Dark Realm]] (in the [[Sacred Land]] sub-world, in the Gerudo Fortress)
+|-
+|24
+|[[File:Mewtwo SSBU.png|center|64x64px]]
+|{{SSBU|Mewtwo}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|12,000
+|{{OmegaStage|Spear Pillar}}
+|''{{SSBUMusicLink|Pokémon|Battle! (Dialga/Palkia) / Spear Pillar}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world, in the red-leafed trees)
+|-
+|25
+|[[File:Roy SSBU.png|center|64x64px]]
+|{{SSBU|Roy}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|12,500
+|{{OmegaStage|Castle Siege}}
+|''{{SSBUMusicLink|Fire Emblem|Beyond Distant Skies - Roy's Departure}}''
+|In {{b|The Final Battle|World of Light}} area (light side)
+|-
+|25<sup>ε</sup>
+|[[File:Chrom SSBU.png|center|64x64px]]
+|{{SSBU|Chrom}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|10,600
+|{{OmegaStage|Castle Siege}}
+|''{{SSBUMusicLink|Fire Emblem|Id (Purpose) (Remix)}}''
+|In [[The Dark Realm]] (in the [[Sacred Land]] sub-world, by jumping into a treasure chest in the Lost Woods)
+|-
+|26
+|[[File:Mr. Game & Watch SSBU.png|center|64x64px]]
+|{{SSBU|Mr. Game & Watch}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|7,500
+|{{OmegaStage|Flat Zone X}}
+|''{{SSBUMusicLink|Game & Watch|Flat Zone 2}}''
+|In [[The Light Realm]] (beyond the light breach, in the maze)
+|-
+|27
+|[[File:Meta Knight SSBU.png|center|64x64px]]
+|{{SSBU|Meta Knight}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|11,800
+|{{OmegaStage|Halberd}}
+|''{{SSBUMusicLink|Kirby|Meta Knight's Revenge}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world)
+|-
+|28
+|[[File:Pit SSBU.png|center|64x64px]]
+|{{SSBU|Pit}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|3,300
+|{{OmegaStage|Skyworld}}
+|''{{SSBUMusicLink|Kid Icarus|Underworld}}''
+|In [[The Light Realm]] (in the [[Temple of Light]] sub-world)
+|-
+|28<sup>ε</sup>
+|[[File:Dark Pit SSBU.png|center|64x64px]]
+|{{SSBU|Dark Pit}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|11,200
+|{{OmegaStage|Reset Bomb Forest}}
+|''{{SSBUMusicLink|Kid Icarus|Dark Pit's Theme}}''
+|In [[The Dark Realm]] (in the {{b|Dracula's Castle|World of Light}} sub-world, through a fireplace)
+|-
+|29
+|[[File:Zero Suit Samus SSBU.png|center|64x64px]]
+|{{SSBU|Zero Suit Samus}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|7,500
+|{{OmegaStage|Brinstar Depths}}
+|''{{SSBUMusicLink|Metroid|Theme of Samus Aran, Space Warrior}}''
+|In [[The Light Realm]] (beyond the light breach, on the volcano)
+|-
+|30
+|[[File:Wario SSBU.png|center|64x64px]]
+|{{SSBU|Wario}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|10,100
+|{{OmegaStage|WarioWare, Inc.}}
+|''{{SSBUMusicLink|WarioWare|WarioWare, Inc.}}''
+|In [[The Dark Realm]] (in the {{b|Dracula's Castle|World of Light}} sub-world)
+|-
+|31
+|[[File:Snake SSBU.png|center|64x64px]]
+|{{SSBU|Snake}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|9,000
+|{{SSBU|Final Destination}}
+|''{{SSBUMusicLink|Metal Gear|Encounter}}''
+|In [[The Light Realm]] (in the [[Base]] sub-world)
+|-
+|32
+|[[File:Ike SSBU.png|center|64x64px]]
+|{{SSBU|Ike}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|11,200
+|{{OmegaStage|Coliseum}}
+|''{{SSBUMusicLink|Fire Emblem|Eternal Bond}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world)
+|-
+|33-35
+|[[File:Pokemon Trainer SSBU.png|center|64x64px]]
+|{{SSBU|Pokémon Trainer}} ({{SSBU|Squirtle}}, {{SSBU|Ivysaur}}, and {{SSBU|Charizard}})
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|7,500
+|{{OmegaStage|Battlefield}}
+|''{{SSBUMusicLink|Pokémon|Main Theme - Pokémon Red & Pokémon Blue (Brawl)}}''
+|In [[The Light Realm]] (beyond the light breach, east of the coastal town)
+|-
+|36
+|[[File:Diddy Kong SSBU.png|center|64x64px]]
+|{{SSBU|Diddy Kong}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|9,000
+|{{OmegaStage|Kongo Jungle}}
+|''{{SSBUMusicLink|Donkey Kong|Stickerbrush Symphony}}''
+|In [[The Light Realm]] (in the {{b|DK Island|World of Light}} sub-world)
+|-
+|37
+|[[File:Lucas SSBU.png|center|64x64px]]
+|{{SSBU|Lucas}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|6,600
+|{{OmegaStage|New Pork City}}
+|''{{SSBUMusicLink|EarthBound|Unfounded Revenge / Smashing Song of Praise}}''
+|In [[The Light Realm]] (in the western village)
+|-
+|38
+|[[File:Sonic SSBU.png|center|64x64px]]
+|{{SSBU|Sonic}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|9,800
+|{{OmegaStage|Green Hill Zone}}
+|''{{SSBUMusicLink|Sonic The Hedgehog|Green Hill Zone}}''
+|In [[The Dark Realm]] (in the [[Sacred Land]] sub-world, between Kakariko Village and the Lost Woods)
+|-
+|39
+|[[File:King Dedede SSBU.png|center|64x64px]]
+|{{SSBU|King Dedede}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|9,000
+|{{OmegaStage|Fountain of Dreams}}
+|''{{SSBUMusicLink|Kirby|King Dedede's Theme (Brawl)}}''
+|In [[The Light Realm]] (in the [[Gourmet Race]] sub-world, after obtaining a score of 11)
+|-
+|40
+|[[File:Olimar SSBU.png|center|64x64px]]
+|{{SSBU|Olimar}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|3,300
+|{{OmegaStage|Distant Planet}}
+|''{{SSBUMusicLink|Pikmin|Main Theme - Pikmin}}''
+|In [[The Light Realm]] (the mushroom forest)
+|-
+|41
+|[[File:Lucario SSBU.png|center|64x64px]]
+|{{SSBU|Lucario}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|3,300
+|{{OmegaStage|Spear Pillar}}
+|''{{SSBUMusicLink|Pokémon|Battle! (Team Galactic)}}''
+|In [[The Light Realm]] (along the wall, near the light breach)
+|-
+|42
+|[[File:R.O.B. SSBU.png|center|64x64px]]
+|{{SSBU|R.O.B.}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|10,500
+|{{OmegaStage|Wrecking Crew}}
+|''{{SSBUMusicLink|Nintendo|Stack-Up/Gyromite}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world, eastern optional path)
+|-
+|43
+|[[File:Toon Link SSBU.png|center|64x64px]]
+|{{SSBU|Toon Link}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|7,500
+|[[Wuhu Island]]
+|''{{SSBUMusicLink|The Legend of Zelda|Main Theme - The Legend of Zelda: Tri Force Heroes}}''
+|In [[The Light Realm]] (in the [[Forest Hill]] sub-world)
+|-
+|44
+|[[File:Wolf SSBU.png|center|64x64px]]
+|{{SSBU|Wolf}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|11,800
+|{{OmegaStage|Lylat Cruise}}
+|''{{SSBUMusicLink|Star Fox|Star Wolf (Brawl)}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world, on the crashed plane)
+|-
+|45
+|[[File:Villager SSBU.png|center|64x64px]]
+|{{SSBU|Villager}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|2,500
+|{{SSBU|Final Destination}}
+|''{{SSBUMusicLink|Super Smash Bros.|Final Destination}}''
+|In [[The Light Realm]], one of the 3 starter routes (east route)
+|-
+|46
+|[[File:Mega Man SSBU.png|center|64x64px]]
+|{{SSBU|Mega Man}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|7,500
+|{{OmegaStage|Wily Castle}}
+|''{{SSBUMusicLink|Mega Man|Mega Man 2 Medley}}''
+|In [[The Light Realm]] (near the [[Base]] entrance)
+|-
+|47
+|[[File:Wii Fit Trainer SSBU.png|center|64x64px]]
+|{{SSBU|Wii Fit Trainer}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|3,300
+|{{OmegaStage|Wii Fit Studio}}
+|''{{SSBUMusicLink|Wii Fit|Yoga}}''
+|In [[The Light Realm]] (northern part of the city)
+|-
+|48
+|[[File:Rosalina & Luma SSBU.png|center|64x64px]]
+|{{SSBU|Rosalina & Luma}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|10,000
+|{{OmegaStage|Mario Galaxy}}
+|''{{SSBUMusicLink|Super Mario Bros.|Egg Planet}}''
+|In [[The Dark Realm]] (northern path, 2nd path from the left)
+|-
+|49
+|[[File:Little Mac SSBU.png|center|64x64px]]
+|{{SSBU|Little Mac}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|3,300
+|{{OmegaStage|Boxing Ring}}
+|''{{SSBUMusicLink|Punch-Out!!|Jogging / Countdown}}''
+|In [[The Light Realm]] (in the city's stadium after clearing [[Power Plant]])
+|-
+|50
+|[[File:Greninja  SSBU.png|center|64x64px]]
+|{{SSBU|Greninja}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|10,600
+|{{OmegaStage|Kalos Pokémon League}}
+|''{{SSBUMusicLink|Pokémon|Battle! (Trainer Battle) - Pokémon X / Pokémon Y}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world)
+|-
+|51
+|[[File:Mii Brawler SSBU.png|center|64x64px]]
+|{{SSBU|Mii Brawler}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|10,000
+|{{SSBU|Final Destination}}
+|''{{SSBUMusicLink|Super Smash Bros.|Final Destination - Super Smash Bros. for 3DS / Wii U}}''
+|In [[The Dark Realm]] (in the [[Sacred Land]] sub-world, in Kakariko Village after setting the clock to 4:40)
+|-
+|52
+|[[File:Mii Swordfighter SSBU.png|center|64x64px]]
+|{{SSBU|Mii Swordfighter}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|3,300
+|{{SSBU|Final Destination}}
+|''{{SSBUMusicLink|Super Smash Bros.|Final Destination - Super Smash Bros. for 3DS / Wii U}}''
+|In [[The Light Realm]] (north of the eastern town)
+|-
+|53
+|[[File:Mii Gunner SSBU.png|center|64x64px]]
+|{{SSBU|Mii Gunner}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|7,500
+|[[Tortimer Island]]
+|''{{SSBUMusicLink|Super Smash Bros.|Final Destination - Super Smash Bros. for 3DS / Wii U}}''
+|In [[The Light Realm]] (beyond the light breach, on the southern island)
+|-
+|54
+|[[File:Palutena  SSBU.png|center|64x64px]]
+|{{SSBU|Palutena}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|12,500
+|{{OmegaStage|Palutena's Temple}}
+|''{{SSBUMusicLink|Kid Icarus|Destroyed Skyworld}}''
+|In {{b|The Final Battle|World of Light}} area (light side after beating Crazy Hand)
+|-
+|55
+|[[File:Pac-Man SSBU.png|center|64x64px]]
+|{{SSBU|Pac-Man}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|3,300
+|{{OmegaStage|Pac-Land}}
+|''{{SSBUMusicLink|Pac-Man|PAC-MAN}}''
+|In [[The Light Realm]] (between the mushroom forest and [[Base]])
+|-
+|56
+|[[File:Robin SSBU.png|center|64x64px]]
+|{{SSBU|Robin}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|10,700
+|{{OmegaStage|Castle Siege}}
+|''{{SSBUMusicLink|Fire Emblem|Prelude (Ablaze)}}''
+|In [[The Dark Realm]] (in the {{b|Dracula's Castle|World of Light}} sub-world)
+|-
+|57
+|[[File:Shulk SSBU.png|center|64x64px]]
+|{{SSBU|Shulk}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|8,200
+|{{OmegaStage|Gaur Plain}}
+|''{{SSBUMusicLink|Xenoblade|Xenoblade Chronicles Medley}}''
+|In [[The Light Realm]] (beyond the light breach, atop the waterfall)
+|-
+|58
+|[[File:Bowser Jr. SSBU.png|center|64x64px]]
+|{{SSBU|Bowser Jr.}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|12,500
+|{{OmegaStage|Mushroomy Kingdom}}
+|''{{SSBUMusicLink|Super Mario Bros.|Fortress Boss - Super Mario Bros. 3}}''
+|In [[The Dark Realm]] (in the [[Sacred Land]] sub-world, on top of a pyramid in the Gerudo Desert)
+|-
+|59
+|[[File:Duck Hunt SSBU.png|center|64x64px]]
+|{{SSBU|Duck Hunt}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|3,300
+|{{OmegaStage|Duck Hunt}}
+|''{{SSBUMusicLink|Duck Hunt|Duck Hunt Medley}}''
+|In [[The Light Realm]] (in the shrouded forest)
+|-
+|60
+|[[File:Ryu SSBU.png|center|64x64px]]
+|{{SSBU|Ryu}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|9,000
+|{{OmegaStage|Suzaku Castle}}
+|''{{SSBUMusicLink|Street Fighter|Ryu Stage}}''
+|In [[The Light Realm]] (in the [[World Tour]] sub-world)
+|-
+|60<sup>ε</sup>
+|[[File:Ken SSBU.png|center|64x64px]]
+|{{SSBU|Ken}}
+|{{SpiritType|Neutral}} <center>{{color|#796581|Neutral}}</center>
+|10,600
+|{{OmegaStage|Boxing Ring}}
+|''{{SSBUMusicLink|Street Fighter|Ken Stage}}''
+|In [[The Dark Realm]] (in the {{b|Dracula's Castle|World of Light}} sub-world)
+|-
+|61
+|[[File:Cloud SSBU.png|center|64x64px]]
+|{{SSBU|Cloud}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|11,200
+|{{OmegaStage|Midgar}}
+|''{{SSBUMusicLink|Final Fantasy|Fight On!}}''
+|In [[The Dark Realm]] (in the [[Sacred Land]] sub-world, before the Master Sword)
+|-
+|62
+|[[File:Corrin SSBU.png|center|64x64px]]
+|{{SSBU|Corrin}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|10,700
+|{{OmegaStage|Castle Siege}}
+|''{{SSBUMusicLink|Fire Emblem|Lost in Thoughts All Alone}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world, on white clouds)
+|-
+|63
+|[[File:Bayonetta SSBU.png|center|64x64px]]
+|{{SSBU|Bayonetta}}
+|{{SpiritType|Shield}} <center>{{color|#18aef5|Shield}}</center>
+|12,500
+|{{OmegaStage|Umbra Clock Tower}}
+|''{{SSBUMusicLink|Bayonetta|Let's Hit the Climax!}}''
+|In {{b|The Final Battle|World of Light}} area (dark side after beating Master Hand)
+|-
+|64
+|[[File:Inkling SSBU.png|center|64x64px]]
+|{{SSBU|Inkling}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|3,300
+|{{OmegaStage|Moray Towers}}
+|''{{SSBUMusicLink|Splatoon|Splattack!}}''
+|In [[The Light Realm]] (southern part of the city)
+|-
+|65
+|[[File:Ridley SSBU.png|center|64x64px]]
+|{{SSBU|Ridley}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|10,600
+|{{OmegaStage|Brinstar Depths}}
+|''{{SSBUMusicLink|Metroid|Vs. Ridley (Brawl)}}''
+|In [[The Dark Realm]] (in the {{b|Dracula's Castle|World of Light}} sub-world)
+|-
+|66
+|[[File:Simon SSBU.png|center|64x64px]]
+|{{SSBU|Simon}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|7,500
+|{{OmegaStage|Dracula's Castle}}
+|''{{SSBUMusicLink|Castlevania|Vampire Killer (Remix)|Vampire Killer}}''
+|In [[The Light Realm]] (in the [[Temple of Light]] sub-world)
+|-
+|66<sup>ε</sup>
+|[[File:Richter SSBU.png|center|64x64px]]
+|{{SSBU|Richter}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|11,800
+|{{OmegaStage|Dracula's Castle}}
+|''{{SSBUMusicLink|Castlevania|Divine Bloodlines}}''
+|In [[The Dark Realm]] (in the {{b|Dracula's Castle|World of Light}} sub-world, after killing all evil ghosts)
+|-
+|67
+|[[File:King K. Rool SSBU.png|center|64x64px]]
+|{{SSBU|King K. Rool}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|10,600
+|[[Pirate Ship]]
+|''{{SSBUMusicLink|Donkey Kong|Gang-Plank Galleon}}''
+|In [[The Dark Realm]] (in the [[Mysterious Dimension]] sub-world, the pirate ship optional path)
+|-
+|68
+|[[File:Isabelle SSBU.png|center|64x64px]]
+|{{SSBU|Isabelle}}
+|{{SpiritType|Grab}} <center>{{color|#17ba17|Grab}}</center>
+|3,900
+|{{OmegaStage|Town and City}}
+|''{{SSBUMusicLink|Animal Crossing|Plaza / Title Theme - Animal Crossing: City Folk / Animal Crossing: Wild World}}''
+|In [[The Light Realm]] (east of the town by taking the bus from the western village)
+|-
+|69
+|[[File:Incineroar SSBU.png|center|64x64px]]
+|{{SSBU|Incineroar}}
+|{{SpiritType|Attack}} <center>{{color|#dc1029|Attack}}</center>
+|12,500
+|{{OmegaStage|Spear Pillar}}
+|''{{SSBUMusicLink|Pokémon|The Battle at the Summit!}}''
+|In [[The Dark Realm]] (south-western path)
