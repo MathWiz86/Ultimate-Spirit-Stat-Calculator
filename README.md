@@ -7,6 +7,8 @@
 A calculator for various stats related to Super Smash Bros. Ultimate's Spirit Board and World of Light modes. Compete with your friends, or collaborate with them! This was used for stat tracking during my [World of Light Let's Play](https://www.youtube.com/playlist?list=PLicMRanzGjcoNyhCiakeTut99iYHAIuTc).
 A usage guide can be [found in the repo wiki](https://github.com/MathWiz86/Ultimate-Spirit-Stat-Calculator/wiki).
 
+If you use this calculator in your own videos, links to this repo and [my channel](https://www.youtube.com/@MathWiz86) are asked for and appreciated!
+
 Building Notes
 =====
 Ensure that your 'Packages\manifest.json' file has `com.unity.nuget.newtonsoft-json": "3.2.1"` as an entry. Replace `3.2.1` with the latest version of NewtonSoft for JSON parsing.
