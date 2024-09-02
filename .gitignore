@@ -74,3 +74,4 @@ crashlytics-build.properties
 # Unneeded Files
 */LP3_SSBU_WOL_StatCalculator/_data/_logs/
 */.idea/
+*.DotSettings
