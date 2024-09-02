@@ -47,7 +47,7 @@ public abstract class PlayerStat
     protected static readonly string StandardResultFormat = "N2";
 
     /// <summary>The display type of the stat.</summary>
-    public StatType StatType { get; protected set; } = StatType.Comparison;
+    public StatType PlayerStatType { get; protected set; } = StatType.Comparison;
 
     /// <summary>If true, the highest value is the best value, and should be highlighted. Otherwise, it is the lowest value.</summary>
     public bool IsHighestValueBest { get; protected set; } = true;
@@ -145,8 +145,8 @@ public abstract class PlayerStat<TExtraData> : PlayerStat
             battleName = spiritData.spiritName;
 
         // Iterate through all players, and tally their data.
-        int playerCount = StatType == StatType.Comparison ? SaveDataManager.CurrentSaveData.GetPlayerCount() : 0;
-        for (int i = StatType == StatType.Comparison ? 0 : CalculatorTools.NoneIndex; i < playerCount; ++i)
+        int playerCount = PlayerStatType == StatType.Comparison ? SaveDataManager.CurrentSaveData.GetPlayerCount() : 0;
+        for (int i = PlayerStatType == StatType.Comparison ? 0 : CalculatorTools.NoneIndex; i < playerCount; ++i)
         {
             PlayerStatTally<TExtraData> tallyData = _results[i];
             UpdateStat(i, battleName, spiritData, battleEntry, tallyData);
@@ -379,7 +379,7 @@ public class PlayerStatDivider : PlayerStat<int>
     public PlayerStatDivider() : base(null)
     {
         Title = string.Empty;
-        StatType = StatType.Single;
+        PlayerStatType = StatType.Single;
     }
 
     public PlayerStatDivider(string title) : this()
@@ -748,10 +748,10 @@ public class PlayerStatCommonalityAbility : PlayerStatCommonality<string, int>
 /// </summary>
 public class PlayerStatToughBattle : PlayerStatCommonality<string, int>
 {
-    public PlayerStatToughBattle(StatType statType, int rank, PlayerStatFilter inFilter) : base(inFilter, true, 1, rank)
+    public PlayerStatToughBattle(StatType playerStatType, int rank, PlayerStatFilter inFilter) : base(inFilter, true, 1, rank)
     {
-        StatType = statType;
-        Title = $"Toughest Battle [Rank {rank}{(statType == StatType.Single ? ", Shared" : "")}]";
+        PlayerStatType = playerStatType;
+        Title = $"Toughest Battle [Rank {rank}{(playerStatType == StatType.Single ? ", Shared" : "")}]";
     }
 
     protected override string GetCommonalityFilterKey(BattleEntry battleEntry, SpiritData spiritData)
@@ -763,7 +763,7 @@ public class PlayerStatToughBattle : PlayerStatCommonality<string, int>
     {
         key = battleName;
 
-        if (StatType == StatType.Comparison)
+        if (PlayerStatType == StatType.Comparison)
         {
             addition = battleEntry.GetPlayerLosses(playerIndex) + (battleEntry.isBattleShared || battleEntry.winningPlayer == playerIndex ? 1 : 0);
         }

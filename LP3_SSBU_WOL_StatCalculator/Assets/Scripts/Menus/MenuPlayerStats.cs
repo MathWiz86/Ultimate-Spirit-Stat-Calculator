@@ -90,13 +90,13 @@ public class MenuPlayerStats : MenuBase
         // Iterate through all stats possible to show on the current page.
         _statsToDisplay.IterateDisplayedStats(_currentPage, maxStatsPerPage, (_, tally) =>
                                                                              {
-                                                                                 if (!_itemPrefabMap.ContainsKey(tally.StatType))
+                                                                                 if (!_itemPrefabMap.ContainsKey(tally.PlayerStatType))
                                                                                      return;
 
                                                                                  TextBlockItem statTitle = Instantiate(statTitlePrefab, statTitlePanel);
                                                                                  statTitle.Text = tally.Title;
 
-                                                                                 PlayerStatItem statItem = Instantiate(_itemPrefabMap[tally.StatType], statItemPanel);
+                                                                                 PlayerStatItem statItem = Instantiate(_itemPrefabMap[tally.PlayerStatType], statItemPanel);
                                                                                  if (statItem == null)
                                                                                      return;
 

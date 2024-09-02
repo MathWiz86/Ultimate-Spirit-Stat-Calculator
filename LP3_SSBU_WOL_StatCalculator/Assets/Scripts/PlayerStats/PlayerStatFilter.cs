@@ -11,7 +11,7 @@ public abstract class PlayerStatFilter
     /// <summary>
     /// Gets the title of the filter, which may be based on provided data.
     /// </summary>
-    /// <returns>Returnst he final title.</returns>
+    /// <returns>Returns the final title.</returns>
     public virtual string GetFilterTitle()
     {
         return string.Empty;
